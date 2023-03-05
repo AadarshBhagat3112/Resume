@@ -1,0 +1,65 @@
+.navbar{
+    background-color: #4E6E81;
+}
+.navbar-brand{
+    color: #ffff;
+    font-family: 'Pacifico', cursive;
+    padding-left: 10px;
+}
+.nav-link{
+    color: #ffff;
+}
+
+.colorbor{
+  border-color: #CBE4DE;
+}
+.bgcolor{
+  background-color: #4E6E81;
+  font-weight: bold;
+  color: #ffff;
+
+}
+.isdisable{
+  cursor: not-allowed;
+  pointer-events: none;
+}
+.row{
+  --bs-gutter-x:0;
+}
+body{
+    text-align: center;
+    align-items: center;
+}
+.qualification{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.liststyle{
+  list-style-type:circle;
+}
+.python{
+    list-style-type: square;
+    text-align: left;
+}
+.website{
+    list-style-type: square;
+    text-align: left;
+}
+.learn{
+    list-style-type: square;
+    text-align: left;
+}
+.contact{
+  padding-bottom: 100px;
+}
+.imgwhatsapp{
+  width: 50px;
+  padding-right: 10px;
+}
+.imggmail{
+  width: 50px;
+  padding-right: 10px;
+}
+.imglinkedin{
+  width: 50px;
+}
