@@ -30,11 +30,11 @@
   font-weight: bold;
 }
 .accordion-header{
-  background-color: #2E4F4F;
+  background-color: #0E8388;
 }
 .accordion-button:not(.collapsed) {
   color: #ffff;
-  background-color: #0E8388;
+  background-color: #2E4F4F;
 }
 .accordion-item{
   border: 0;
@@ -64,7 +64,7 @@
 }
 .navbar-toggler{
   color: #C9EEFF;
-  background-color: #C9EEFF;
+  background-color: #0E8388;
 }
 
 h3{
