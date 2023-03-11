@@ -62,6 +62,10 @@
     font-weight: bold;
     font-family: 'PT Serif', serif;
 }
+.navbar-toggler{
+  color: #C9EEFF;
+  background-color: #C9EEFF;
+}
 
 h3{
   font-family: 'PT Serif', serif;
