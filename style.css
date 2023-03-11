@@ -1,57 +1,121 @@
+.card-text{
+  text-align: left;
+  font-family: 'Merriweather', serif;
+}
+.card-title{
+  font-family: 'Noto Serif Lao', serif;
+  font-weight: 700;
+}
+.card-body{
+  background-color: #CBE4DE;
+}
+
+.contact{
+  padding-bottom: 100px;
+}
+.image{
+  background-color: #CBE4DE;
+}
+.accordion-body{
+  text-align: justify;
+  background-color: #CBE4DE;
+  font-family: 'Merriweather', serif;
+}
+
+.accordion-button{
+  background-color: #2C3333;
+  margin-bottom: 3px;
+  font-family: 'Merriweather', serif;
+  color: #ffff;
+  font-weight: bold;
+}
+.accordion-header{
+  background-color: #2E4F4F;
+}
+.accordion-button:not(.collapsed) {
+  color: #ffff;
+  background-color: #0E8388;
+}
+.accordion-item{
+  border: 0;
+}
+
 .navbar{
-    background-color: #4E6E81;
+    background-color: #2C3333;
+}
+.nav-link:hover{
+  color: #C9EEFF;
+}
+.nav-link:active{
+  color: #C9EEFF;
+}
+.navbar-brand:hover{
+  color: #C9EEFF;
 }
 .navbar-brand{
     color: #ffff;
     font-family: 'Pacifico', cursive;
-    padding-left: 10px;
+    padding-left: 10px;   
 }
 .nav-link{
     color: #ffff;
+    font-weight: bold;
+    font-family: 'PT Serif', serif;
 }
 
-.colorbor{
-  border-color: #CBE4DE;
-}
-.bgcolor{
-  background-color: #4E6E81;
+h3{
+  font-family: 'PT Serif', serif;
   font-weight: bold;
-  color: #ffff;
-
+  color: #CBE4DE;
 }
+h4{
+  font-family: 'PT Serif', serif;
+  font-weight: bold;
+  color: #CBE4DE;
+}
+.h4border{
+  border-bottom-style: dotted;
+  border-width: 5px;
+  margin-bottom: 10px;
+  margin-left: 41%;
+  margin-right: 41%;
+}
+
 .isdisable{
   cursor: not-allowed;
   pointer-events: none;
+  font-weight: bold;
+  font-family: 'PT Serif', serif;
+  background-color: #C9EEFF;
 }
-.row{
-  --bs-gutter-x:0;
-}
+
 body{
     text-align: center;
     align-items: center;
 }
-.qualification{
-    padding-left: 40px;
-    padding-right: 40px;
-}
-.liststyle{
-  list-style-type:circle;
-}
+
 .python{
     list-style-type: square;
     text-align: left;
+    font-family: 'Merriweather', serif;
+    color:#C9EEFF;
+    font-weight: 600;
 }
 .website{
     list-style-type: square;
     text-align: left;
+    font-family: 'Merriweather', serif;
+    color: #C9EEFF;
+    font-weight: 600;
 }
 .learn{
     list-style-type: square;
     text-align: left;
+    font-family: 'Merriweather', serif;
+    color: #C9EEFF;
+    font-weight: 600;
 }
-.contact{
-  padding-bottom: 100px;
-}
+
 .imgwhatsapp{
   width: 50px;
   padding-right: 10px;
