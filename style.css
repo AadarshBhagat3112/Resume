@@ -131,12 +131,21 @@ body{
 
 .imgwhatsapp{
   width: 50px;
-  padding-right: 10px;
+  margin-right: 10px;
+  height: 50px;
+  background-color: #ffff;
+  border-radius: 20px;
 }
 .imggmail{
   width: 50px;
-  padding-right: 10px;
+  margin-right: 10px;
+  height: 50px;
+  background-color: #ffff;
+  border-radius: 30px;
 }
 .imglinkedin{
   width: 50px;
+  height: 50px;
+  background-color: #ffff;
+  border-radius: 10px;
 }
