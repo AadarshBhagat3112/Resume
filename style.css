@@ -48,7 +48,9 @@
 .accordion-item{
   border: 0;
 }
-
+.nav{
+  padding-right:5px;
+}
 .navbar{
     background-color: #2C3333;
 }
